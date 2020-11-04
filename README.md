@@ -9,7 +9,7 @@ Character-based term frequency-inverse document frequency features with a minimu
 On the test/validation set, the results which they got are as follows :
 
     Accuracy (On training data)           : 	92.81%  
-    Accuracy (On testing data) 		        : 	89.42% 
+    Accuracy (On testing data) 		      : 	89.42% 
     
 ### Reference:
 ```
